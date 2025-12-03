@@ -1,6 +1,7 @@
 public class Exercise4_2 {
 
-  
+  // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
+
     public static void main(String[] args) {      // 1
         zippo("rattle", 13);                      // 2
     }
@@ -20,3 +21,9 @@ public class Exercise4_2 {
         }
     }
 }
+
+Programın Tam Çıktısı:
+ik
+rattle
+ping zoop
+boo-wa-ha-ha
