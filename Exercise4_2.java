@@ -1,7 +1,6 @@
 public class Exercise4_2 {
 
-  // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
-
+  
     public static void main(String[] args) {      // 1
         zippo("rattle", 13);                      // 2
     }
